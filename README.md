@@ -1,1 +1,2 @@
-Edit TEST. will edit later
+Learned how to create lists and insert a jpg. or jpeg into the code. 
+Struggled with trying to create a "return to main" link. Saw others code it with ../index.html, however, when i tried the same line of code, it did not work on the webpage. gave up on it. 
